@@ -51,7 +51,6 @@
     <Compile Include="11_ParallelInheritanceHierarchies\ParallelInheritanceHierarchies02.cs" />
     <Compile Include="11_ParallelInheritanceHierarchies\ParallelInheritanceHierarchies03.cs" />
     <Compile Include="11_ParallelInheritanceHierarchies\ParallelInheritanceHierarchies01.cs" />
-    <Compile Include="12_LazyClass\LazyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
