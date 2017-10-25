@@ -52,10 +52,26 @@
     <Compile Include="11_ParallelInheritanceHierarchies\ParallelInheritanceHierarchies03.cs" />
     <Compile Include="11_ParallelInheritanceHierarchies\ParallelInheritanceHierarchies01.cs" />
     <Compile Include="12_LazyClass\LazyClass.cs" />
+    <Compile Include="15_MessageChains\MessageChains.cs" />
+    <Compile Include="16_MiddleMan\MiddleMan.cs" />
+    <Compile Include="17_InappropriateIntimacy\InappropriateIntimacy.cs" />
+    <Compile Include="17_InappropriateIntimacy\InappropriateIntimacy_PayInfoService.cs" />
+    <Compile Include="17_InappropriateIntimacy\InappropriateIntimacy_OrderService.cs" />
+    <Compile Include="18_AlternativeClassesWithDifferentInterfaces\AlternativeClassesWithDifferentInterfaces.cs" />
+    <Compile Include="19_IncompleteLibraryClass\IncompleteLibraryClass.cs" />
+    <Compile Include="20_DataClass\DataClass.cs" />
+    <Compile Include="21_RefusedBequest\RefusedBequest.cs" />
+    <Compile Include="22_Comments\Comments.cs" />
+    <Compile Include="IntroduceExplainingVariable\IntroduceExplainingVariable.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="13_SpeculativeGenerality\" />
+    <Folder Include="14_TemporaryField\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
