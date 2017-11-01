@@ -62,9 +62,11 @@
     <Compile Include="20_DataClass\DataClass.cs" />
     <Compile Include="21_RefusedBequest\RefusedBequest.cs" />
     <Compile Include="22_Comments\Comments.cs" />
-    <Compile Include="IntroduceExplainingVariable\IntroduceExplainingVariable.cs" />
+    <Compile Include="23_IntroduceExplainingVariable\IntroduceExplainingVariable.cs" />
+    <Compile Include="25_RemoveAssignmentsToParameters\RemoveAssignmentsToParameters.cs" />
+    <Compile Include="26_ReplaceMethodWithMethodObject\ReplaceMethodWithMethodObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SplitTemporaryVariable\SplitTemporaryVariable.cs" />
+    <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
