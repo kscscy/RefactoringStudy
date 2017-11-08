@@ -65,6 +65,7 @@
     <Compile Include="23_IntroduceExplainingVariable\IntroduceExplainingVariable.cs" />
     <Compile Include="25_RemoveAssignmentsToParameters\RemoveAssignmentsToParameters.cs" />
     <Compile Include="26_ReplaceMethodWithMethodObject\ReplaceMethodWithMethodObject.cs" />
+    <Compile Include="27_SubstituteAlgorithm\SubstituteAlgorithm.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
