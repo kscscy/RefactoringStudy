@@ -66,6 +66,9 @@
     <Compile Include="25_RemoveAssignmentsToParameters\RemoveAssignmentsToParameters.cs" />
     <Compile Include="26_ReplaceMethodWithMethodObject\ReplaceMethodWithMethodObject.cs" />
     <Compile Include="27_SubstituteAlgorithm\SubstituteAlgorithm.cs" />
+    <Compile Include="28_MoveMethod\MoveMethod.cs" />
+    <Compile Include="30_ExtractClass\ExtractClass.cs" />
+    <Compile Include="31_InlineClass\InlineClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
@@ -75,6 +78,7 @@
   <ItemGroup>
     <Folder Include="13_SpeculativeGenerality\" />
     <Folder Include="14_TemporaryField\" />
+    <Folder Include="29_MoveField\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
