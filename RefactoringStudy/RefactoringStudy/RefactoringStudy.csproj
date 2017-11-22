@@ -67,6 +67,7 @@
     <Compile Include="26_ReplaceMethodWithMethodObject\ReplaceMethodWithMethodObject.cs" />
     <Compile Include="27_SubstituteAlgorithm\SubstituteAlgorithm.cs" />
     <Compile Include="28_MoveMethod\MoveMethod.cs" />
+    <Compile Include="29_MoveField\MoveField.cs" />
     <Compile Include="30_ExtractClass\ExtractClass.cs" />
     <Compile Include="31_InlineClass\InlineClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -78,7 +79,6 @@
   <ItemGroup>
     <Folder Include="13_SpeculativeGenerality\" />
     <Folder Include="14_TemporaryField\" />
-    <Folder Include="29_MoveField\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
