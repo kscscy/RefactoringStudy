@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 /// 서버 클래스는 그저 중개자에 불과하므로, 이때는 클라이언트가 대리 객체를 직접 호출하게 해야한다.
 /// 
 /// 은폐의 적절한 정도를 알기란 어렵다. 시스템이 변경되면 은폐 정도의 기준도 변하고 필요할 때마다 보수하자.
-/// 
+///  
 /// </summary>
 
 namespace RefactoringStudy._33_RemoveMiddleMan
