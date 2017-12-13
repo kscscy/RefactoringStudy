@@ -72,6 +72,8 @@
     <Compile Include="31_InlineClass\InlineClass.cs" />
     <Compile Include="32_HideDelegate\HideDelegate.cs" />
     <Compile Include="33_RemoveMiddleMan\RemoveMiddleMan.cs" />
+    <Compile Include="34_IntroduceForeignMethod\IntroduceForeignMethod.cs" />
+    <Compile Include="35_IntroduceLocalExtension\IntroduceLocalExtension.cs" />
     <Compile Include="36_SelfEncapsulateField\SelfEncapsulateField.cs" />
     <Compile Include="37_ReplaceDataValueWithObject\ReplaceDataValueWithObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -83,8 +85,6 @@
   <ItemGroup>
     <Folder Include="13_SpeculativeGenerality\" />
     <Folder Include="14_TemporaryField\" />
-    <Folder Include="34_IntroduceForeignMethod\" />
-    <Folder Include="35_IntroduceLocalExtension\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
