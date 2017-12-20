@@ -76,6 +76,8 @@
     <Compile Include="35_IntroduceLocalExtension\IntroduceLocalExtension.cs" />
     <Compile Include="36_SelfEncapsulateField\SelfEncapsulateField.cs" />
     <Compile Include="37_ReplaceDataValueWithObject\ReplaceDataValueWithObject.cs" />
+    <Compile Include="38_ChangeValueToReference\ChangeValueToReference.cs" />
+    <Compile Include="39_ChangeReferenceToValue\ChangeReferenceToValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
