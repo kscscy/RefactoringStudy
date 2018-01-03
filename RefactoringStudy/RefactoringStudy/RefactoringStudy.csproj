@@ -80,6 +80,8 @@
     <Compile Include="39_ChangeReferenceToValue\ChangeReferenceToValue.cs" />
     <Compile Include="40_ReplaceArrayWithObject\ReplaceArrayWithObject.cs" />
     <Compile Include="41_DuplicateObservedData\DuplicateObservedData.cs" />
+    <Compile Include="42_ChangeUnidirectionalAssociationToBidirectional\ChangeUnidirectionalAssociationToBidirectional.cs" />
+    <Compile Include="43_ChangeBidirectionalAssociationToUnidirectional\ChangeBidirectionalAssociationToUnidirectional.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
