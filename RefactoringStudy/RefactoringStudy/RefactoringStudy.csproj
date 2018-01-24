@@ -82,6 +82,8 @@
     <Compile Include="41_DuplicateObservedData\DuplicateObservedData.cs" />
     <Compile Include="42_ChangeUnidirectionalAssociationToBidirectional\ChangeUnidirectionalAssociationToBidirectional.cs" />
     <Compile Include="43_ChangeBidirectionalAssociationToUnidirectional\ChangeBidirectionalAssociationToUnidirectional.cs" />
+    <Compile Include="44_ReplaceMagicNumberWithSymbolicConstant\ReplaceMagicNumberWithSymbolicConstant.cs" />
+    <Compile Include="45_EncapsulateField\EncapsulateField.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
