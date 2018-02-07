@@ -86,6 +86,8 @@
     <Compile Include="45_EncapsulateField\EncapsulateField.cs" />
     <Compile Include="46_EncapsulateCollection\EncapsulateCollection.cs" />
     <Compile Include="47_ReplaceRecordWithDataClass\ReplaceRecordWithDataClass.cs" />
+    <Compile Include="48_ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass.cs" />
+    <Compile Include="49_ReplaceTypeCodeWithSubclasses\ReplaceTypeCodeWithSubclasses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
