@@ -88,6 +88,8 @@
     <Compile Include="47_ReplaceRecordWithDataClass\ReplaceRecordWithDataClass.cs" />
     <Compile Include="48_ReplaceTypeCodeWithClass\ReplaceTypeCodeWithClass.cs" />
     <Compile Include="49_ReplaceTypeCodeWithSubclasses\ReplaceTypeCodeWithSubclasses.cs" />
+    <Compile Include="50_ReplaceTypeCodeWithStateORStrategy\ReplaceTypeCodeWithStateORStrategy.cs" />
+    <Compile Include="51_ReplaceSubclassWithFields\ReplaceSubclassWithFields.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
