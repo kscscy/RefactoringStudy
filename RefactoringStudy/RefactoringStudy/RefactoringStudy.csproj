@@ -90,6 +90,8 @@
     <Compile Include="49_ReplaceTypeCodeWithSubclasses\ReplaceTypeCodeWithSubclasses.cs" />
     <Compile Include="50_ReplaceTypeCodeWithStateORStrategy\ReplaceTypeCodeWithStateORStrategy.cs" />
     <Compile Include="51_ReplaceSubclassWithFields\ReplaceSubclassWithFields.cs" />
+    <Compile Include="54_ConsolidateDuplicateConditionalFragments\ConsolidateDuplicateConditionalFragments.cs" />
+    <Compile Include="55_RemoveControlFlag\RemoveControlFlag.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="24_SplitTemporaryVariable\SplitTemporaryVariable.cs" />
   </ItemGroup>
