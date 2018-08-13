@@ -8,6 +8,6 @@ namespace RefactoringStudy
 {
     class TestClass
     {
-        // git test
+        // git test2
     }
 }
